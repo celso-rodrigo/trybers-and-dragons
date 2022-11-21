@@ -3,12 +3,12 @@
 
 <br/>
 
-<h2>O que foi desenvolvido</h2>
+<h2>O quê foi desenvolvido</h2>
 <p>Foram aplicados os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).</p>
 
 <br/>
 
-<h2>O que foi avaliado</h2>
+<h2>O quê foi avaliado</h2>
 <ul>
   <li> O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo;</li>
   <li>A habilidade de criar e utilizar Interface;</li>
