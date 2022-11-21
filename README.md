@@ -1,5 +1,5 @@
 <h1>Trybers and Dragons</h1>
-<p>Este projeto foi desenvolvido em novembro de 2022 como parte dos meus estudos na <a href="https://www.betrybe.com/">Trybe</a>.</p>
+<p>Este projeto foi desenvolvido em novembro de 2022 durante meus estudos na <a href="https://www.betrybe.com/">Trybe</a>.</p>
 
 <br/>
 
@@ -10,11 +10,11 @@
 
 <h2>O que foi avaliado</h2>
 <ul>
-  <ol> O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo.</ol>
-  <ol>A habilidade de criar e utilizar Interface;</ol>
-  <ol>A habilidade de utilizar Composição;</ol>
-  <ol>Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;</ol>
-  <ol>O conhecimento e aplicação dos princípios SOLID.</ol>
+  <li> O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo;</li>
+  <li>A habilidade de criar e utilizar Interface;</li>
+  <li>A habilidade de utilizar Composição;</li>
+  <li>Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;</li>
+  <li>O conhecimento e aplicação dos princípios SOLID.</li>
 </ul>
 
 <br/>
