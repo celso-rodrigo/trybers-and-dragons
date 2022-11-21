@@ -1,5 +1,5 @@
 <h1>Trybers and Dragons</h1>
-<p>Este projeto foi desenvolvido em novembro de 2022 como parte dos meus estudos na <a href="https://www.betrybe.com/">Trybe.</a></p>
+<p>Este projeto foi desenvolvido em novembro de 2022 como parte dos meus estudos na <a href="https://www.betrybe.com/">Trybe</a>.</p>
 
 <br/>
 
